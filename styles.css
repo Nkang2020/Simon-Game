@@ -1,0 +1,57 @@
+body {
+  background-color:black;
+}
+h1 {
+  color:white;
+}
+#header{
+  width:250px;
+  height:75px;
+  background-color:white;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top:20px;
+  border-top-left-radius:2em;
+  border-top-right-radius:2em;
+  border-bottom-left-radius:2em;
+  border-bottom-right-radius:2em;
+}
+h3 {
+  color:white;
+}
+#count{
+  color:black;
+}
+#num{
+  color:black;
+}
+#start{
+  margin-top:10px;
+}
+.greenButton{
+  background-color:green;
+  height:80px;
+  width:80px;
+  padding-top:30px;
+}
+.redButton{
+  background-color:red;
+  height:80px;
+  width:80px;
+  padding-top:30px;
+}
+.yellowButton{
+  background-color:yellow;
+  height:80px;
+  width:80px;
+  padding-top:30px;
+}
+.blueButton{
+  background-color:blue;
+  height:80px;
+  width:80px;
+  padding-top:30px;
+}
+a{
+  margin:5px;
+}
